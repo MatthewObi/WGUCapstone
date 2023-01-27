@@ -1,6 +1,7 @@
 numpy
 matplotlib
 keras
+tensorflow
 jupyter
 ipywidgets
 ipycanvas
